@@ -11,7 +11,7 @@
 if (!defined('IN_CMS')) { exit(); }
 
 /**
- *
+ * TEST github by mm
  * Note: to use the settings and documentation pages, you will first need to enable
  * the plugin!
  *
